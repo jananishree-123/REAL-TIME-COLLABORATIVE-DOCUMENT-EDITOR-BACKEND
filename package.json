@@ -1,0 +1,11 @@
+{
+  "name": "collab-server",
+  "version": "1.0.0",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^8.0.0",
+    "socket.io": "^4.7.5",
+    "cors": "^2.8.5"
+  }
+}
